@@ -1,45 +1,19 @@
-# <Your-Project-Title>
+# Module-Challenge-01
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This website was created to make a more clean and better way of accessing its functions. This was made by bettering the HTML and CSS to be cleaner. My motivation for creating.editing this landing page was to make it more cleaner and user freindly as well as adding changes of life that helped the entirity of the website and made it more user friendly. The reason I built this website was to allow for better search engine optimization and allow Horiseon to have an overall better landing page and cleaner HTML CSS backend. It solves the problem of the customer of wanting new capability from their website. I learnt a lot more about semantic code and how to clean up HTML and CSS files while keeping code easy to read with comments and changes to allow for easier implmentation.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The only requirement you would have to installing this project is to click the HTML link to run the website and from there you will be led to the landing page and can use at your own convenince
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To use this website simply launch it through the link and from there you will have full access to the required pages and or 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Muaiz Khan, Dylan Godfrey, GitHub, UofT Module and tutorials along with the UofT Study group that was formed outside of class
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-README.md
-2 KB
